@@ -5,7 +5,7 @@
 </div>
 
 ## 👨‍💻 About me:
-- 20 years old
+- 21 years old
 - Currently getting better at backend development
 - Engaged in programming since 2021
 - Trying to learn as much as possible to improve my skills...
